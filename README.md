@@ -88,13 +88,10 @@
 
 ---
 
-## 🌟 Поддержка
+## 📞 Контакты
 
+- 👨‍💻 **Разработчик лаунчера**: @emptyenemy | https://t.me/emptyenemy
 - 🎮 **Официальный сайт игры**: https://magic-quest.ru
-
-Если нужна помощь или нашли баг в лаунчере:
-- 👨‍💻 **Разработчик**: @emptyenemy
-- 💬 **Telegram**: https://t.me/emptyenemy
 
 ---
 
